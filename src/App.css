@@ -1,0 +1,22 @@
+/* Header*/
+header {
+  background: silver;
+  padding: 2em 0;
+  text-align: center;
+  margin-bottom: 3em;
+  max-height: 100%;
+}
+
+/* Container*/
+.box {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* Player Boxes*/
+.player {
+  text-align: center;
+  background-color: gold;
+  height: 480px;
+  border-radius: 10px;
+}
